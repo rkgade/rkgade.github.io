@@ -1,15 +1,16 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Kubernetes, a beginning.
+description: Learn about Kubernetes Components
+# img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Kubernetes is a container orchestration tool. 
+Kubernetes helps in automated deployments, scaling and management of containers.
+<!-- It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width. -->
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
