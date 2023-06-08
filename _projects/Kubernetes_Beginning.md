@@ -4,7 +4,7 @@ title: Kubernetes, a beginning.
 description: Learn about Kubernetes Components
 # img: assets/img/12.jpg
 importance: 1
-category: kubernets
+category: kubernetes
 ---
 
 Kubernetes is a container orchestration tool. 
