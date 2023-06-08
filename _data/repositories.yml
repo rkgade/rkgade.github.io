@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rkgade
+  - rk-projects
+  - rustox
+  - rkwork
 
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+# TODO: Add Githu Repos
+# github_repos:
+#   - alshedivat/al-folio
+#   - twbs/bootstrap
+#   - jekyll/jekyll
+#   - jquery/jquery
+#   - FortAwesome/Font-Awesome
+#   - jpswalsh/academicons
+#   - mathjax/MathJax
